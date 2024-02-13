@@ -30,6 +30,6 @@ We have designed the UI on Figma and the mockups are also available with additio
 
 ### Use Case Model
 
-The use case diagram can be found here
+The use case diagram can be found [here](./Use%20Case%20Diagram.pdf). There is a PNG version also avaialable [here](./Use%20Case%20Diagram%20PNG.png)
 
-The use case description can be found here
+The use case description can be found [here](./Use%20Case%20Descriptions.pdf)

@@ -18,8 +18,12 @@ The use case description can be found [here](./Use%20Case%20Descriptions.pdf)
 
 ### Class Diagrams
 
-The stereotype diagram showing the relationship between the boundary classes, control classes, and entity classes can be found [here](./Stereotype%20Diagram.pdf)
+The Entity Class Diagram can be found [here](./Entity%20Class%20Diagram.pdf)
 
 #### Stereotype Diagram
+
+The stereotype diagram showing the relationship between the boundary classes, control classes, and entity classes can be found [here](./Stereotype%20Diagram.pdf)
+
+### Sequence Diagrams
 
 #### Dialog Maps

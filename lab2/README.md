@@ -18,12 +18,16 @@ The use case description can be found [here](./Use%20Case%20Descriptions.pdf)
 
 ### Class Diagrams
 
-The Entity Class Diagram can be found [here](./Entity%20Class%20Diagram.pdf)
+The Entity Class Diagram can be found [here](./EntityClassDiagram.pdf)
 
-#### Stereotype Diagram
+### Stereotype Diagram
 
 The stereotype diagram showing the relationship between the boundary classes, control classes, and entity classes can be found [here](./Stereotype%20Diagram.pdf)
 
 ### Sequence Diagrams
 
-#### Dialog Maps
+A PDF containing all the sequence diagrams can be found [here](./SequenceDiagrams.pdf). However, since the images may be a bit blurry, we have also included the individual sequence diagrams in the `Sequence Diagrams` folder. The folder is located [here](./Sequence%20Diagrams)
+
+### Dialog Maps
+
+The dialog maps can be found [here](./Dialog%20Map.pdf)

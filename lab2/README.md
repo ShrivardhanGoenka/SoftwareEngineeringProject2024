@@ -12,7 +12,7 @@ The dialog maps were created to show the flow of the user interface. The dialog 
 
 ### Use Case Description and Use Case Diagram
 
-The use case diagram can be found [here](./Use%20Case%20Diagram.pdf). There is a PNG version also avaialable [here](./Use%20Case%20Diagram%20PNG.png)
+The use case diagram can be found [here](./Use%20Case%20Diagram.pdf). There is a JPG version also avaialable [here](./Use%20Case%20Diagram%20PNG.jpg)
 
 The use case description can be found [here](./Use%20Case%20Descriptions.pdf)
 

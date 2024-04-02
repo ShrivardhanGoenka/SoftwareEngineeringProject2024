@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'ChalkboardSE-Regular';
+    src: url('CHALKBOARDS.TTF');
+}
+
+@font-face {
+    font-family: 'ChalkboardSE-Bold';
+    src: url('CHALKBOARDSB.TTF');
+}
+
+@font-face {
+    font-family: 'ChalkboardSE-Light';
+    src: url('CHALKBOARDSL.TTF');
+}

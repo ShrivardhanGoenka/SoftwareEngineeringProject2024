@@ -28,33 +28,33 @@ The SRS document which the team prepared laid out the following final requiremen
 The following documents were prepared before the development of the ProfitPath application began to assist the team in the planning and design phase of the project: 
 1. Use Case Model - This document outlines the various use cases of the ProfitPath application. It contains detailed descriptions of the interactions between the users and the system. There is also a use case diagram that visually represents the relationships between the actors and the system.
     
-    The Use Case Model can be found [here](/Pre-Development/Use%20Case%20Model/)
+    The Use Case Model can be found [here](./Pre-Development/Use%20Case%20Model/)
 
-    This folder contains the [Use Case Diagram](/Pre-Development/Use%20Case%20Model/Use%20Case%20Diagram.pdf) and the [Use Case Descriptions](/Pre-Development/Use%20Case%20Model/Use%20Case%20Descriptions.pdf)
+    This folder contains the [Use Case Diagram](./Pre-Development/Use%20Case%20Model/Use%20Case%20Diagram.pdf) and the [Use Case Descriptions](./Pre-Development/Use%20Case%20Model/Use%20Case%20Descriptions.pdf)
 
 2. UI Mockup - The team then proceeded to build a UI Mockup to visualise the design and layout of the ProfitPath application. The UI Mockup provides a visual representation of the user interface, including the screens, buttons, and navigation flow. Please note that the UI Mockup made at this point was not the final design of the application. It was a basic wireframe to help the team understand the layout of the application.
 
-    The UI Mockup can be found [here](/Pre-Development/UI%20Mockup/)
+    The UI Mockup can be found [here](./Pre-Development/UI%20Mockup/)
 
-    This folder contains the [UI Mockup](/Pre-Development/UI%20Mockup/UI%20Mockup.pdf)
+    This folder contains the [UI Mockup](./Pre-Development/UI%20Mockup/UI%20Mockup.pdf)
 
-    All images used in the UI Mockup can be found [here](/Pre-Development/UI%20Mockup/UI%20Images/)
+    All images used in the UI Mockup can be found [here](./Pre-Development/UI%20Mockup/UI%20Images/)
 
 3. After finishing the requirements, the team proceeded to create the Sequence Diagrams to correspond with the Use Case Model. The Sequence Diagrams provide a visual representation of the interactions between the actors and the system. It shows the sequence of messages exchanged between the objects in the system.
 
-    The Sequence Diagrams can be found [here](/Pre-Development/Static%20Models/Sequence%20Diagrams.pdf)
+    The Sequence Diagrams can be found [here](./Pre-Development/Static%20Models/Sequence%20Diagrams.pdf)
 
 4. The team also prepared a Stereotype Diagram to provide a visual representation of the classes and their relationships in the ProfitPath application. The Stereotype Diagram helps the team understand the structure of the system and the relationships between the classes.
 
-    The Stereotype Diagram can be found [here](/Pre-Development/Static%20Models/Stereotype%20Diagram.pdf)
+    The Stereotype Diagram can be found [here](./Pre-Development/Static%20Models/Stereotype%20Diagram.pdf)
 
 5. The team also prepared an Entity Class Diagram to show the different entities, their attributes and their relationship with each other. This diagram later helped us in creating the Entity Relationship Diagram which we used to create the database schema in the Django application.
 
-    The Entity Class Diagram can be found [here](/Pre-Development/Static%20Models/Entity%20Class%20Diagram.pdf)
+    The Entity Class Diagram can be found [here](./Pre-Development/Static%20Models/Entity%20Class%20Diagram.pdf)
 
 6. Finally, the team also prepared a Dialog Map to better illustrate the UI of the application. 
 
-    The Dialog Map can be found [here](/Pre-Development/Static%20Models/Dialog%20Map.pdf)
+    The Dialog Map can be found [here](./Pre-Development/Static%20Models/Dialog%20Map.pdf)
 
 ### Development
 
@@ -72,7 +72,7 @@ After the planning and design phase, the team proceeded to the technology stack 
 
 After finalising the technology, the team proceeded to design the system architecture of the ProfitPath application. The system architecture diagram provides a high-level overview of the system’s components and their interactions. It shows the relationship between the frontend, backend, and database, and how they communicate with each other. Each component is clearly defined, and the flow of data is illustrated and labelled. The system architecture diagram helps the team understand the structure of the system and how the components work together to deliver the desired functionality.
 
-The System Architecture Diagram can be found [here](/Development/System%20Architecture.pdf)
+The System Architecture Diagram can be found [here](./Development/System%20Architecture.pdf)
 
 #### Development
 
@@ -86,7 +86,7 @@ The developement took place in the following stages:
 2. Stage 2: Preparation of API Reference:
     - After preparing the APIs, the team proceeded to prepare the API Reference document. The API Reference document provides a detailed description of the RESTful APIs used in the ProfitPath application. It includes the API endpoints, request and response formats, and the parameters required for each API. The API Reference document serves as a guide for the development team to understand and implement the APIs in the frontend and backend.
 
-    The API Reference document can be found [here](/Development/API%20Reference.pdf)
+    The API Reference document can be found [here](./Development/API%20Reference.pdf)
 
 3. Stage 3: Integration of the frontend and backend:
     - After the frontend and backend were developed and tested, the team proceeded to integrate the two components. The frontend was connected to the backend using the RESTful APIs. The frontend made requests to the backend to fetch data and update the UI. The integration was tested to ensure that the frontend and backend were communicating correctly and the application was working as expected.
@@ -94,7 +94,7 @@ The developement took place in the following stages:
 4. Stage 4: Testing:
     - After the integration was complete, the team proceeded to test the application as a whole. The team conducted black box and white box testing to ensure that the application was functioning correctly and all the requirements were met. 
 
-    The Test plan document along with the results can be found [here](/Development/Test%20Cases.pdf)
+    The Test plan document along with the results can be found [here](./Development/Test%20Cases.pdf)
 
 5. Stage 5: Deployment:
 
@@ -102,15 +102,15 @@ The developement took place in the following stages:
 
 #### Source Code
 
-The source code for the ProfitPath application can be found [here](/Development/Source%20Code/)
+The source code for the ProfitPath application can be found [here](./Development/Source%20Code/)
 
-There is a [Getting Started](/Development/Source%20Code/Getting%20Started.md) guide available in the Source Code folder to help set up the application on a local machine.
+There is a [Getting Started](./Development/Source%20Code/Getting%20Started.md) guide available in the Source Code folder to help set up the application on a local machine.
 
 ### Post-development
 
 After the development of the ProfitPath application was complete, as specified in the SRS document, the team proceeded to prepare a user manual and a demo video to help users understand how to use the application.
 
-The User Manual can be found [here](/Post-Development/User%20Manual.pdf)
+The User Manual can be found [here](./Post-Development/User%20Manual.pdf)
 
 The Demo Video is hosted on Youtube can be found [here](https://youtu.be/t-gbtWf5HIU)
 

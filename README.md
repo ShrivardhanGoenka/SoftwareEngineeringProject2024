@@ -12,7 +12,7 @@ ProfitPath also provides an invaluable solution for individual transport and del
 
 ## Live Application
 
-The ProfitPath application is live and can be accessed [here](https://smart-xplorers.vercel.app/)
+The ProfitPath application is live and can be accessed [here](https://smart-xplorers.vercel.app/). Please note that the backend of the application is not live as the backend costs were too high. 
 
 ## Software Requirement Specifications (SRS)
 
